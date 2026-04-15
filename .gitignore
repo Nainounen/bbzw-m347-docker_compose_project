@@ -1,0 +1,50 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# =========================
+# Docker
+# =========================
+
+# Docker override files (optional local changes)
+docker-compose.override.yml
+compose.override.yaml
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.swp
